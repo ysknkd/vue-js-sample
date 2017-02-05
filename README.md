@@ -2,6 +2,8 @@
 
 > A Vue.js project
 
+![](https://www.dropbox.com/s/nu9a88gyl7q8ttl/screenshot.png?dl=1)
+
 ## Build Setup
 
 ``` bash
