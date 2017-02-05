@@ -1,0 +1,74 @@
+[
+  {
+    "articleId"   : "42004c61ce5b098930dab3f29eeb7ad8",
+    "fullName"    : "full name",
+    "userName"    : "username",
+    "profileImage": "https://www.dropbox.com/s/zyjtdg9sab37j0q/profileImage.png?dl=1",
+    "created"     : "2017-01-30T11:47:13.000+00:00",
+    "text"        : "Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+    "media"       : [
+      {
+        "type" : "photo",
+        "thumb": {
+          "w"  : "360",
+          "h"  : "360",
+          "url": "https://www.dropbox.com/s/rpr2b1a64qiinbk/IMG_20170122_200917_571_thumb.jpg?dl=1"
+        },
+        "large": {
+          "w"  : "1440",
+          "h"  : "1440",
+          "url": "https://www.dropbox.com/s/8yaxju3n1wnne6o/IMG_20170122_200917_571.jpg?dl=1"
+        }
+      },
+      {
+        "type" : "photo",
+        "thumb": {
+          "w"  : "360",
+          "h"  : "360",
+          "url": "https://www.dropbox.com/s/zq7vc4pw3o3kr8p/IMG_20170129_213907_214_thumb.jpg?dl=1"
+        },
+        "large": {
+          "w"  : "1440",
+          "h"  : "1440",
+          "url": "https://www.dropbox.com/s/lrep7umzwbw5lg0/IMG_20170129_213907_214.jpg?dl=1"
+        }
+      }
+    ]
+  },
+  {
+    "articleId"   : "1afef8b19bec716a4ef218da4769be8b",
+    "fullName"    : "full name",
+    "userName"    : "username",
+    "profileImage": "https://www.dropbox.com/s/zyjtdg9sab37j0q/profileImage.png?dl=1",
+    "created"     : "2017-01-30T11:47:13.000+00:00",
+    "text"        : "Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+    "media"       : [
+      {
+        "type" : "photo",
+        "thumb": {
+          "w"  : "360",
+          "h"  : "360",
+          "url": "https://www.dropbox.com/s/lrs2olodjaoiytz/IMG_20170112_231412_526_thumb.jpg?dl=1"
+        },
+        "large": {
+          "w"  : "1440",
+          "h"  : "1440",
+          "url": "https://www.dropbox.com/s/48ajp2r312m4ukz/IMG_20170112_231412_526.jpg?dl=1"
+        }
+      },
+      {
+        "type" : "photo",
+        "thumb": {
+          "w"  : "360",
+          "h"  : "360",
+          "url": "https://www.dropbox.com/s/9eb7yr67rfl5n5e/IMG_20170128_122123_047_thumb.jpg?dl=1"
+        },
+        "large": {
+          "w"  : "1440",
+          "h"  : "1440",
+          "url": "https://www.dropbox.com/s/xw6qwcj7xn946m7/IMG_20170128_122123_047.jpg?dl=1"
+        }
+      }
+    ]
+  }
+]
